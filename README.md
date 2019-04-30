@@ -1,5 +1,6 @@
 Akka examples in Java
 ==============
+Corrected some little mistakes.
 
 A few examples using Akka with Java. These examples have basic structures in common:
 
